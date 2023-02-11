@@ -2,11 +2,11 @@
     "clientVersionCode": 100,
     "gameFilesVersionCode": 100,
     "URL_GAME_FILES" : "http://a0775330.xsph.ru/game.zip",
-    "URL_GAME_FILES_UPD" : "http://a0775330.xsph.ru/files_upd.zip",
+    "URL_GAME_FILES_UPD" : "https://www.dropbox.com/s/smc5q2ot6uuxbwp/files_upd.zip?dl=1",
     "URL_VK": "https://discord.gg/GbJAk5dX5J",
     "URL_DISCORD": "https://discord.gg/GbJAk5dX5J",
     "URL_YOUTUBE": "https://t.me/knoxkami",
     "URL_FORUM": "https://discord.gg/GbJAk5dX5J",
     "URL_DONATE": "https://discord.gg/GbJAk5dX5J",
-    "URL_CLIENT": "http://a0775330.xsph.ru/client.apk"
+    "URL_CLIENT": "https://www.dropbox.com/s/srzzjxt26frx3je/client.apk?dl=1"
 }
