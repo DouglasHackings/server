@@ -2,11 +2,11 @@
     "clientVersionCode": 100,
     "gameFilesVersionCode": 100,
     "URL_GAME_FILES" : "http://a0775330.xsph.ru/game.zip",
-    "URL_GAME_FILES_UPD" : "https://cityclub-11d224bc136feea76573-endpoint.azureedge.net/wp-content/uploads/2023/02/files_upd.zip",
+    "URL_GAME_FILES_UPD" : "http://a0775330.xsph.ru/game.zip",
     "URL_VK": "https://",
     "URL_DISCORD": "https://",
     "URL_YOUTUBE": "https://",
     "URL_FORUM": "https://",
     "URL_DONATE": "https://",
-    "URL_CLIENT": "https://cityclub-11d224bc136feea76573-endpoint.azureedge.net/wp-content/uploads/2023/02/client.zip"
+    "URL_CLIENT": "http://a0775330.xsph.ru/game.zip"
 }
