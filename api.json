@@ -2,11 +2,11 @@
     "clientVersionCode": 100,
     "gameFilesVersionCode": 100,
     "URL_GAME_FILES" : "http://a0775330.xsph.ru/game.zip",
-    "URL_GAME_FILES_UPD" : "http://a0775330.xsph.ru/game.zip",
-    "URL_VK": "https://",
-    "URL_DISCORD": "https://",
-    "URL_YOUTUBE": "https://",
-    "URL_FORUM": "https://",
-    "URL_DONATE": "https://",
-    "URL_CLIENT": "http://a0775330.xsph.ru/game.zip"
+    "URL_GAME_FILES_UPD" : "http://",
+    "URL_VK": "http://",
+    "URL_DISCORD": "http://",
+    "URL_YOUTUBE": "http://",
+    "URL_FORUM": "http://",
+    "URL_DONATE": "http://",
+    "URL_CLIENT": "http://"
 }
