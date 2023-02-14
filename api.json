@@ -2,11 +2,11 @@
     "clientVersionCode": 100,
     "gameFilesVersionCode": 100,
     "URL_GAME_FILES" : "http://a0775330.xsph.ru/game.zip",
-    "URL_GAME_FILES_UPD" : "www.dropbox.com/s/vvx2jmzje2a2gab/files_upd.zip?dl=1",
+    "URL_GAME_FILES_UPD" : "",
     "URL_VK": "http://",
     "URL_DISCORD": "http://",
     "URL_YOUTUBE": "http://",
     "URL_FORUM": "http://",
     "URL_DONATE": "http://",
-    "URL_CLIENT": "www.dropbox.com/s/d6fr68kg84zp5jg/client.apk?dl=1",
+    "URL_CLIENT": "",
 }
